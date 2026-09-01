@@ -1,0 +1,28 @@
+# =================not
+# Altium Designer Ignore Rules
+# =========================
+
+# Local History and Caches
+History/
+__Previews/
+
+# Project Logs and Generated Outputs
+Project Logs*/
+Project Outputs*/
+ProjectLogs*/
+ProjectOutputs*/
+Assembly Exports*/
+
+# Temporary and Preview Files
+*.PcbDoc.htm
+*.SchDoc.htm
+*.SchDocPreview
+*.PcbDocPreview
+*.PrjPcbStructure
+.$$$
+*.log
+debug.log
+Status Report.txt
+
+# Lock files
+.~lock.*
