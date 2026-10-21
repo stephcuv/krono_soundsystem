@@ -81,7 +81,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=QCJKXEFO
 
 [Document3]
 DocumentPath=..\..\..\..\stephcuv\Desktop\altium-library\pcb_mcu\ESP.PcbLib
@@ -166,7 +166,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=QFEIUXGR
 
 [Document8]
 DocumentPath=..\..\..\..\stephcuv\Desktop\altium-library\pcb_A-D_rf\ANTENNA.PcbLib
@@ -183,7 +183,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=GVCCJSIC
 
 [Document9]
 DocumentPath=..\..\..\..\stephcuv\Desktop\altium-library\pcb_A-D_rf\FILTERS.PcbLib
@@ -336,7 +336,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=FDAAPIID
 
 [Document18]
 DocumentPath=..\..\..\..\stephcuv\Desktop\altium-library\pcb_standard_componenten\DIODE.PcbLib
@@ -421,7 +421,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=ULDPFXER
 
 [Document23]
 DocumentPath=..\..\..\..\stephcuv\Desktop\altium-library\schematic_A-D_rf\ANTENNA.SchLib
@@ -438,7 +438,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=TMLJRVLR
 
 [Document24]
 DocumentPath=..\..\..\..\stephcuv\Desktop\altium-library\schematic_A-D_rf\FILTERS.SchLib
@@ -455,7 +455,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=JEHQLBEU
 
 [Document25]
 DocumentPath=..\..\..\..\stephcuv\Desktop\altium-library\schematic_A-D_rf\VERSTERKERS.SchLib
@@ -472,7 +472,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=QOCFUTKO
 
 [Document26]
 DocumentPath=..\..\..\..\stephcuv\Desktop\altium-library\schematic_mcu\ANALOG_DEVICES.SchLib
@@ -506,7 +506,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=RMHGQVYO
 
 [Document28]
 DocumentPath=..\..\..\..\stephcuv\Desktop\altium-library\schematic_mcu\MICROCHIP.SchLib
@@ -523,7 +523,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=SYRWCMHD
 
 [Document29]
 DocumentPath=..\..\..\..\stephcuv\Desktop\altium-library\schematic_mcu\STM.SchLib
@@ -540,7 +540,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=ZHFNYVWA
 
 [Document30]
 DocumentPath=..\..\..\..\stephcuv\Desktop\altium-library\schematic_power\BATTERIJ HOUDERS.SchLib
@@ -574,7 +574,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=DVXGCSFJ
 
 [Document32]
 DocumentPath=..\..\..\..\stephcuv\Desktop\altium-library\schematic_power\BATTERIJ_COMPARATOR.SchLib
@@ -591,7 +591,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=MIWOWVSN
 
 [Document33]
 DocumentPath=..\..\..\..\stephcuv\Desktop\altium-library\schematic_power\POWER_SUPPLY.SchLib
@@ -608,7 +608,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=RDMBPSHZ
 
 [Document34]
 DocumentPath=..\..\..\..\stephcuv\Desktop\altium-library\schematic_power\SPANNING_CONVERTERS.SchLib
@@ -625,7 +625,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=BZPYSUUS
 
 [Document35]
 DocumentPath=..\..\..\..\stephcuv\Desktop\altium-library\schematic_standard_componenten\BUTTON_SWITCHES.SchLib
@@ -659,7 +659,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=CQJCSYVF
 
 [Document37]
 DocumentPath=..\..\..\..\stephcuv\Desktop\altium-library\schematic_standard_componenten\CONNECTORS.SchLib
@@ -676,7 +676,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=WWZSVXVU
 
 [Document38]
 DocumentPath=..\..\..\..\stephcuv\Desktop\altium-library\schematic_standard_componenten\DIODE.SchLib
@@ -731,6 +731,57 @@ DocumentUniqueId=IUOIRHJF
 
 [Document41]
 DocumentPath=..\..\..\..\stephcuv\Desktop\altium-library\schematic_standard_componenten\XTAL_OSCILATOR.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=UUSHFIQS
+
+[Document42]
+DocumentPath=ESP_SHEET.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=IZQDKHZM
+
+[Document43]
+DocumentPath=PERIPHERAL_SHEET.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=IGUNADQS
+
+[Document44]
+DocumentPath=Krono_soundsystem.BomDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1690,6 +1741,8 @@ Type162=1
 Type163=1
 Type164=1
 Type165=2
+Type166=2
+Type167=2
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW
@@ -1743,23 +1796,35 @@ ComponentSymbolReference0=72_ADAU1452KCPZRL
 ComponentUpdate0=1
 ComponentIsDeviceSheet0=0
 ComponentLibIdentifierKind1=Library Name And Type
-ComponentLibraryIdentifier1=CAP_INDUCTOR.SchLib
-ComponentDesignItemID1=ceramic capacator
-ComponentSymbolReference1=ceramic capacator
+ComponentLibraryIdentifier1=BUTTON_SWITCHES.SchLib
+ComponentDesignItemID1=4PIN-TACTILE-SWITCH
+ComponentSymbolReference1=4PIN-TACTILE-SWITCH
 ComponentUpdate1=0
 ComponentIsDeviceSheet1=0
 ComponentLibIdentifierKind2=Library Name And Type
-ComponentLibraryIdentifier2=RESISTOR.SchLib
-ComponentDesignItemID2=resistor
-ComponentSymbolReference2=resistor
+ComponentLibraryIdentifier2=CAP_INDUCTOR.SchLib
+ComponentDesignItemID2=ceramic capacator
+ComponentSymbolReference2=ceramic capacator
 ComponentUpdate2=0
 ComponentIsDeviceSheet2=0
 ComponentLibIdentifierKind3=Library Name And Type
-ComponentLibraryIdentifier3=TRANSISTOR.SchLib
-ComponentDesignItemID3=PNP TRANSISTOR
-ComponentSymbolReference3=PNP TRANSISTOR
+ComponentLibraryIdentifier3=RESISTOR.SchLib
+ComponentDesignItemID3=resistor
+ComponentSymbolReference3=resistor
 ComponentUpdate3=0
 ComponentIsDeviceSheet3=0
+ComponentLibIdentifierKind4=Library Name And Type
+ComponentLibraryIdentifier4=TRANSISTOR.SchLib
+ComponentDesignItemID4=PNP TRANSISTOR
+ComponentSymbolReference4=PNP TRANSISTOR
+ComponentUpdate4=0
+ComponentIsDeviceSheet4=0
+ComponentLibIdentifierKind5=Library Name And Type
+ComponentLibraryIdentifier5=XTAL_OSCILATOR.SchLib
+ComponentDesignItemID5=2-pin xtal
+ComponentSymbolReference5=2-pin xtal
+ComponentUpdate5=1
+ComponentIsDeviceSheet5=0
 FullReplace=1
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
@@ -1781,10 +1846,14 @@ ParameterName2=Description
 ParameterUpdate2=1
 ParameterName3=Library Reference
 ParameterUpdate3=1
-ParameterName4=type
+ParameterName4=Supplier 1
 ParameterUpdate4=1
-ParameterName5=value
+ParameterName5=Supplier Part Number 1
 ParameterUpdate5=1
+ParameterName6=type
+ParameterUpdate6=1
+ParameterName7=value
+ParameterUpdate7=1
 ModelTypeGroup0=PCBLIB
 ModelTypeUpdate0=1
 ModelType0=PCBLIB
@@ -1812,20 +1881,23 @@ ModelType7=PCBLIB
 ModelName7=1206_SMD_FOOTPRINT
 ModelUpdate7=1
 ModelType8=PCBLIB
-ModelName8=QFN-72_ADAU1452
+ModelName8=4pin-tactile-switch
 ModelUpdate8=1
 ModelType9=PCBLIB
-ModelName9=SOT23 FOOTPRINT
+ModelName9=QFN-72_ADAU1452
 ModelUpdate9=1
 ModelType10=PCBLIB
-ModelName10=SOT89 FOOTPRINT
+ModelName10=SOT23 FOOTPRINT
 ModelUpdate10=1
 ModelType11=PCBLIB
-ModelName11=THERMISTOR_THROUGH HOLE
+ModelName11=SOT89 FOOTPRINT
 ModelUpdate11=1
 ModelType12=PCBLIB
-ModelName12=TO-252 FOOTPINT
+ModelName12=THERMISTOR_THROUGH HOLE
 ModelUpdate12=1
+ModelType13=PCBLIB
+ModelName13=TO-252 FOOTPINT
+ModelUpdate13=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0
