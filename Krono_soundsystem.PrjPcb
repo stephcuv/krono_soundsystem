@@ -217,7 +217,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=YMLCJABE
 
 [Document11]
 DocumentPath=..\..\..\..\stephcuv\Desktop\altium-library\pcb_power\BATTERIJ_COMPARATOR.PcbLib
@@ -798,7 +798,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document45]
-DocumentPath=ADC_SHEET.SchDoc
+DocumentPath=DAC_SHEET.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -815,7 +815,7 @@ GenerateClassCluster=0
 DocumentUniqueId=BEMEAEXH
 
 [Document46]
-DocumentPath=DAC-AUX_SHEET.SchDoc
+DocumentPath=ADC-AUX_SHEET.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1861,13 +1861,13 @@ ComponentLibIdentifierKind0=Library Name And Type
 ComponentLibraryIdentifier0=ADC-DAC.SchLib
 ComponentDesignItemID0=14_PCM1808PW
 ComponentSymbolReference0=14_PCM1808PW
-ComponentUpdate0=1
+ComponentUpdate0=0
 ComponentIsDeviceSheet0=0
 ComponentLibIdentifierKind1=Library Name And Type
 ComponentLibraryIdentifier1=ADC-DAC.SchLib
 ComponentDesignItemID1=20_PCM5101AQPWRQ1
 ComponentSymbolReference1=20_PCM5101AQPWRQ1
-ComponentUpdate1=1
+ComponentUpdate1=0
 ComponentIsDeviceSheet1=0
 ComponentLibIdentifierKind2=Library Name And Type
 ComponentLibraryIdentifier2=ANALOG_DEVICES.SchLib
@@ -1907,16 +1907,28 @@ ComponentUpdate7=0
 ComponentIsDeviceSheet7=0
 ComponentLibIdentifierKind8=Library Name And Type
 ComponentLibraryIdentifier8=TRANSISTOR.SchLib
-ComponentDesignItemID8=PNP TRANSISTOR
-ComponentSymbolReference8=PNP TRANSISTOR
-ComponentUpdate8=0
+ComponentDesignItemID8=NPN TRANSISTOR
+ComponentSymbolReference8=NPN TRANSISTOR
+ComponentUpdate8=1
 ComponentIsDeviceSheet8=0
 ComponentLibIdentifierKind9=Library Name And Type
-ComponentLibraryIdentifier9=XTAL_OSCILATOR.SchLib
-ComponentDesignItemID9=2-pin xtal
-ComponentSymbolReference9=2-pin xtal
+ComponentLibraryIdentifier9=TRANSISTOR.SchLib
+ComponentDesignItemID9=PNP TRANSISTOR
+ComponentSymbolReference9=PNP TRANSISTOR
 ComponentUpdate9=0
 ComponentIsDeviceSheet9=0
+ComponentLibIdentifierKind10=Library Name And Type
+ComponentLibraryIdentifier10=VERSTERKERS.SchLib
+ComponentDesignItemID10=32_TPA3116D2DADR
+ComponentSymbolReference10=32_TPA3116D2DADR
+ComponentUpdate10=1
+ComponentIsDeviceSheet10=0
+ComponentLibIdentifierKind11=Library Name And Type
+ComponentLibraryIdentifier11=XTAL_OSCILATOR.SchLib
+ComponentDesignItemID11=2-pin xtal
+ComponentSymbolReference11=2-pin xtal
+ComponentUpdate11=0
+ComponentIsDeviceSheet11=0
 FullReplace=1
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
@@ -1996,6 +2008,9 @@ ModelUpdate14=1
 ModelType15=PCBLIB
 ModelName15=TSSOP-20_PCM5101AQPWRQ1
 ModelUpdate15=1
+ModelType16=PCBLIB
+ModelName16=TSSOP-32+G_TPA3116D2DADR
+ModelUpdate16=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0
